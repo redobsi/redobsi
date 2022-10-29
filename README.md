@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redobsi
-- 👀 I’m interested in programmation
+- 👀 I’m interested in game developping and desk app dev
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me : on discord, my discord account : Red0bsi#7499
