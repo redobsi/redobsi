@@ -1,18 +1,20 @@
-# Hi, I'm Redobsi 👋
+#Hey, I'm Yahya 👋
+I've been coding since childhood—so long that I can’t even remember my first line of code.
 
-I'm a developer with a passion for game development and desktop application development. Currently, I'm focusing on learning JavaScript and C#.
+I'm a versatile developer with a broad skill set. Here’s a snapshot of what I do:
 
-## What I'm interested in
-- Game development
-- Desktop application development
+-🎮 Game Development
 
-## What I'm currently learning
-- JavaScript
-- C#
+-🔍 Reverse Engineering (Cracking & API Reversing on iOS and Android)
 
-## What I'm looking for
-I'm looking for any type of project to collaborate on. I'm open to working on different types of projects and expanding my skillset.
+-🌐 Fullstack Development
 
-## How to reach me
-The best way to reach me is through Discord. You can contact me at Red0bsi#7499.
-I hope this helps!
+-🎨 Frontend Design
+
+-...and much more.
+
+My primary languages are JavaScript and Python, but I also work with:
+
+C#, C++, C, and Go (Golang)
+
+Feel free to reach out on Telegram @YMoulki if you have any questions or projects—I’m always open to interesting work!
