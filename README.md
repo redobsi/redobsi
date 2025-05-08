@@ -1,17 +1,17 @@
-#Hey, I'm Yahya 👋
+# Hey, I'm Yahya 👋
 I've been coding since childhood—so long that I can’t even remember my first line of code.
 
 I'm a versatile developer with a broad skill set. Here’s a snapshot of what I do:
 
--🎮 Game Development
+- 🎮 Game Development
 
--🔍 Reverse Engineering (Cracking & API Reversing on iOS and Android)
+- 🔍 Reverse Engineering (Cracking & API Reversing on iOS and Android)
 
--🌐 Fullstack Development
+- 🌐 Fullstack Development
 
--🎨 Frontend Design
+- 🎨 Frontend Design
 
--...and much more.
+- ...and much more.
 
 My primary languages are JavaScript and Python, but I also work with:
 
