@@ -1,5 +1,5 @@
 # Hey, I'm Yahya 👋
-I've been coding since childhood—so long that I can’t even remember my first line of code.
+I've been coding since childhood, so long that I can’t even remember my first line of code.
 
 I'm a versatile developer with a broad skill set. Here’s a snapshot of what I do:
 
@@ -13,8 +13,8 @@ I'm a versatile developer with a broad skill set. Here’s a snapshot of what I 
 
 - ...and much more.
 
-My primary languages are JavaScript and Python, but I also work with:
+My primary languages are **JavaScript** and **Python**, but I also work with:
 
-C#, C++, C, and Go (Golang)
+*C#*, *C++*, *C*, and *Go (Golang)*
 
 Feel free to reach out on Telegram @YMoulki if you have any questions or projects—I’m always open to interesting work!
